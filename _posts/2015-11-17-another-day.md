@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 ---
+
 
 ## Installer Grunt.js, bower, et tout le bazar...
 
@@ -22,5 +23,3 @@ a|b|c
 - item
 - item
 - item
-
-
